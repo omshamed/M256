@@ -1,8 +1,0 @@
-Component-based software development
-Think about software you use regularly, such as an email system or a word processor. Does it always work properly? Our guess is that you will answer ‘no’. Software often does not do what it is supposed to, in all sorts of ways. For example, it might routinely freeze up or unexpectedly crash. If other kinds of product behaved like this we would be very surprised. Imagine if motorists found that the engines of brand-new cars stopped unexpectedly in mid-journey many times a day and had to be restarted each time.
-So the performance of software often disappoints, and worse: there are many examples of large and expensive software systems that have been utter failures (recall the Child Support Agency system and the Passport Agency system, mentioned in Unit 1). Moreover, software is very expensive to develop, and frequently takes much longer than expected to produce. When finally released, it may turn out to be hard to maintain. In short, software often fails to meet the following quality criteria:
-reliability;
-usefulness;
-affordability;
-timeliness;
-maintainability.
